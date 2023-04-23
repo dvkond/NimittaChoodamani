@@ -1,1 +1,1 @@
-# NimittaChoodamani
+# nimitta-choodamani
