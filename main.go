@@ -1,7 +1,12 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+
+	"github.com/dvkond/nimitta-choodamani/nimittachoodamanicore"
+)
 
 func main() {
-	fmt.Println("Start!!!")
+	fmt.Println(nimittachoodamanicore.About())
+	fmt.Println(nimittachoodamanicore.Help())
 }
